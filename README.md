@@ -2,4 +2,8 @@
 
 I'm going through this video tutorial to learn how to use Tailwind CSS.
 
- https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0
+https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0
+
+```sh
+npm run dev
+```
