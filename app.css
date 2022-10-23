@@ -10,10 +10,10 @@
     font-semibold text-sm sm:text-base;
   }
   .btn-primary {
-    @apply bg-indigo-500
-    hover:bg-indigo-400
-    focus:ring-indigo-500 focus:ring-opacity-50
-    active:bg-indigo-600
+    @apply bg-brand
+    hover:bg-brand-light
+    focus:ring-brand focus:ring-opacity-50
+    active:bg-brand-dark
     text-white;
   }
   .btn-secondary {
